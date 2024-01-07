@@ -1,0 +1,2 @@
+# ideas
+Various business ideas
