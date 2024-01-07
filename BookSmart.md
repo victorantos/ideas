@@ -21,3 +21,7 @@ As you juggle the roles of a business leader, you shouldn't be bogged down by th
 Your business is unique, and your scheduling tool should reflect that. Don't settle for generic scheduling tools that don't showcase your brand's distinct personality. With BookSmart, stand out from the crowd and give your clients the outstanding experience they deserve.
 
 Ready to take your bookings to the next level? Sign up for BookSmart today and transform your scheduling experience into a seamless, branded masterpiece!
+
+==TODO
+
+contact booksmart.com owner ask for domain price https://who.is/whois/booksmart.com
