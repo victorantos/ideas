@@ -22,6 +22,6 @@ Your business is unique, and your scheduling tool should reflect that. Don't set
 
 Ready to take your bookings to the next level? Sign up for BookSmart today and transform your scheduling experience into a seamless, branded masterpiece!
 
-==TODO
+**TODO**
 
 contact booksmart.com owner ask for domain price https://who.is/whois/booksmart.com
