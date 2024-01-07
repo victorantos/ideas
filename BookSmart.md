@@ -5,7 +5,7 @@ Your bookers deserve better than mundane booking pages! Say goodbye to the hassl
 ✨ Create Your Free Booking Page Now!
 Embark on a journey to redefine your scheduling process - no credit card required, and it's free forever. Upgrade anytime for even more premium features!
 
-Trusted by 1M+ users across 100 countries, including Techstars, Randstad, UserTesting, and Shopify, BookSmart is here to revolutionize your approach to bookings.
+BookSmart is here to revolutionize your approach to bookings.
 
 📅 Bookings are Your Business
 
